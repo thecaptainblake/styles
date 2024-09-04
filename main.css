@@ -1,0 +1,14 @@
+
+#view-container {
+  border-bottom: 10px solid green;
+}
+#view-container::after {
+  content: 'testing after external';
+  font-size:40px;
+  font-weight: bold;
+}
+#view-container::before {
+  content: 'testing before external';
+  font-size:40px;
+  font-weight: bold;
+}
