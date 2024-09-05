@@ -1,0 +1,5 @@
+.arturo-item::after{
+  content: 'Template Code';
+  font-size: 15px;
+  color: red;
+}
