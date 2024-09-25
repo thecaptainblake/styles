@@ -1,7 +1,10 @@
 .arturo-item::after{
-  content: 'Template Code';
-  font-size: 50px;
-  color: red;
-  margin: 60px auto;
-  rotate: -10deg;
+    content: 'This is from External File';
+    display: block;
+    font-size: 50px;
+    font-weight: bold;
+    color: red;
+    background: black;
+    padding: 50px;
+    text-align: center;
 }
