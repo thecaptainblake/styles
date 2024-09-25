@@ -1,5 +1,7 @@
 .arturo-item::after{
   content: 'Template Code';
-  font-size: 15px;
+  font-size: 50px;
   color: red;
+  margin: 60px auto;
+  rotate: -10deg;
 }
